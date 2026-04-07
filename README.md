@@ -1,6 +1,6 @@
 # SolarToAll Calculator ☀️
 
-AI-assisted solar calculator that estimates system size, cost, and savings using user inputs and real-world energy assumptions.
+A simple and user-friendly solar rooftop calculator that estimates system size, installation cost, and monthly savings based on electricity consumption.
 
 A simple solar rooftop calculator that estimates:
 
