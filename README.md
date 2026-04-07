@@ -1,5 +1,7 @@
 # SolarToAll Calculator ☀️
 
+AI-assisted solar calculator that estimates system size, cost, and savings using user inputs and real-world energy assumptions.
+
 A simple solar rooftop calculator that estimates:
 
 - System size (kW)
